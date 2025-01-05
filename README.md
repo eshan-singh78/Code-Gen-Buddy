@@ -1,6 +1,6 @@
 # Code Gen Buddy
 
-Code Gen Buddy is an online code editor that allows users to generate code based on prompts. The application uses the Ollama API to generate code based on a user's input, and it provides options to choose different programming languages (JavaScript and Python) and switch between light/dark themes.
+Code Gen Buddy is a prototype of an idea that allows users to generate code based on prompts. The application uses the Ollama API to generate code based on a user's input, and it provides options to choose different programming languages (JavaScript and Python) and switch between light/dark themes. The project is tested on the granite-code:3b model of Ollama.
 
 ## Features
 - **Code Editor**: A Monaco Editor with syntax highlighting for JavaScript and Python.
@@ -95,3 +95,4 @@ The frontend will run on `http://localhost:3000`.
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
+
