@@ -74,7 +74,7 @@ The frontend will run on `http://localhost:3000`.
 /backend
     /node_modules
     .env
-    server.js
+    core.js
     package.json
 
 /frontend
