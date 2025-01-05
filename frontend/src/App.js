@@ -104,7 +104,7 @@ function App() {
       }}
     >
       <Typography variant="h4" gutterBottom sx={{ fontWeight: 'bold', color: isDarkMode ? 'white' : 'black' }}>
-        Online Code Editor
+        Code Gen Buddy
       </Typography>
       <Typography variant="body2" paragraph sx={{ marginBottom: 2, color: isDarkMode ? 'white' : 'black' }}>
         Generate code via prompts!
