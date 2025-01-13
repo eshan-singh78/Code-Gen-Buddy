@@ -58,7 +58,6 @@ coverage/
 /.next/
 /.out/
 .gatsby/
-public/
 
 # Monaco Editor
 .monaco/
